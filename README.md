@@ -8,7 +8,7 @@
  |_| \_\/_/   \_\___/  |____/|_____|_____/_/   \_\____/___| |_/_/   \_\
 </pre>
 
-### Cloud Engineer | DevOps | FinOps | AIOps
+### Cloud Engineer | DevOps | AiOps | 3+ years 
 
 I help clients build reliable cloud infrastructure, automate deployments, improve monitoring, and optimize cloud costs.
 
